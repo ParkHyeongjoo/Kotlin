@@ -11,7 +11,6 @@ import java.util.Scanner
 //    오류난 곳으로 이동 : F2
 //    자동정렬 : Ctrl + Alt + L
 //    자료형 확인 : Ctrl + Shift + P
-
 fun main() {
 
 //    Scanner sc = new Scanner(System.in); - Java
